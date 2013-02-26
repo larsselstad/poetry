@@ -1,1 +1,5 @@
-Where did the man at the door go?
+* Where did the man at the door go?
+  * I'm not sure. I didn't see him.
+* Is Git a brute fact?
+  * Yes.
+
